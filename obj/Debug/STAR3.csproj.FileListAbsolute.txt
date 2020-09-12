@@ -1,0 +1,7 @@
+C:\Users\rlagy\source\repos\STAR3\bin\Debug\STAR3.exe.config
+C:\Users\rlagy\source\repos\STAR3\bin\Debug\STAR3.exe
+C:\Users\rlagy\source\repos\STAR3\bin\Debug\STAR3.pdb
+C:\Users\rlagy\source\repos\STAR3\obj\Debug\STAR3.csproj.CoreCompileInputs.cache
+C:\Users\rlagy\source\repos\STAR3\obj\Debug\STAR3.exe
+C:\Users\rlagy\source\repos\STAR3\obj\Debug\STAR3.pdb
+C:\Users\rlagy\source\repos\STAR3\obj\Debug\STAR3.csprojAssemblyReference.cache
