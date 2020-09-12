@@ -20,8 +20,30 @@ namespace STAR3
                 Console.WriteLine("");
                 m--;
             }
+          
+            Console.WriteLine("");
+            Console.WriteLine("");
+            Console.WriteLine("");
+
+            m = 10;
+            for (int i = 1; i < 11; i++)
+            {
+                for (int k = 0; k < m; k++)
+                {
+                    Console.Write(" ");
+                }
+
+                for (int k = 1; k <= 2*i-1; k++)
+                {
+                    Console.Write("*");
+                }
+                Console.WriteLine("");
+                m--;
+            }
+           
             Console.ReadLine();
+
+
         }
     }
 }
-    
