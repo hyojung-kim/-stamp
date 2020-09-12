@@ -71,6 +71,45 @@ namespace STAR3
                
                 Console.WriteLine("");
             }
+
+            Console.WriteLine("");
+            Console.WriteLine("");
+            Console.WriteLine("");
+
+            int stop = 30, low = 1, high =29;
+
+            for (int i = 1; i < stop; i++)
+            {
+                for (int j = 1; j < stop; j++)
+                {
+                    if (j <= low)
+                    {
+                        Console.Write("*");
+                    }
+                    else if (j >= high)
+                    {
+                        Console.Write("*");
+                    }
+                    else
+                    {
+                        Console.Write(" ");
+                    }
+                }
+                if (i > stop / 2 - 1)
+                {
+                    low--;
+                    high++;
+                }
+                else if (i < stop/2)
+                {
+                    low++;
+                    high--;
+                }
+
+                Console.WriteLine("");
+            }
+
+
             Console.ReadLine();
         }
     }
